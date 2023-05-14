@@ -31,6 +31,14 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+input[type='number'] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
 .container {
   display: grid;
   height: 100vh;
