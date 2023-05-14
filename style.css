@@ -8,6 +8,21 @@
 
 :root {
   font-size: 62.5%;
+
+  /* Colors */
+  --text-title: #0c3440;
+
+  --text-label: #00453a;
+  --text-input: #212529;
+  --text-place: rgba(73, 80, 87, 0.5);
+  --cl-outline: #02799d;
+  --cl-border: rgba(73, 80, 87, 0.3);
+
+  --text-btn: #ffffff;
+  --bg-btn: #02799d;
+
+  --bg-error: #f03e3e;
+  --text-error: #ffffff;
 }
 
 body {
