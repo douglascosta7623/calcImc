@@ -20,5 +20,5 @@ function handleKeydown (event){
   if (event.key === 'Escape'){
     Modal.close();
     }
-
 }
+
